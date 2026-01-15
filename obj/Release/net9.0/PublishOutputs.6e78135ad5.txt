@@ -1,0 +1,7 @@
+/Users/leandrobelluscio/Documents/_code/Borderless/Berp/azure-course/azure-app-course/publish/azure-app-course
+/Users/leandrobelluscio/Documents/_code/Borderless/Berp/azure-course/azure-app-course/publish/appsettings.Development.json
+/Users/leandrobelluscio/Documents/_code/Borderless/Berp/azure-course/azure-app-course/publish/appsettings.json
+/Users/leandrobelluscio/Documents/_code/Borderless/Berp/azure-course/azure-app-course/publish/azure-app-course.dll
+/Users/leandrobelluscio/Documents/_code/Borderless/Berp/azure-course/azure-app-course/publish/azure-app-course.deps.json
+/Users/leandrobelluscio/Documents/_code/Borderless/Berp/azure-course/azure-app-course/publish/azure-app-course.runtimeconfig.json
+/Users/leandrobelluscio/Documents/_code/Borderless/Berp/azure-course/azure-app-course/publish/azure-app-course.pdb

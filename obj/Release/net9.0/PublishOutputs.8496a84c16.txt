@@ -1,0 +1,13 @@
+/Users/leandrobelluscio/Documents/_code/Borderless/Berp/azure-course/azure-app-course/bin/Release/net9.0/publish/azure-app-course
+/Users/leandrobelluscio/Documents/_code/Borderless/Berp/azure-course/azure-app-course/bin/Release/net9.0/publish/publish/web.config
+/Users/leandrobelluscio/Documents/_code/Borderless/Berp/azure-course/azure-app-course/bin/Release/net9.0/publish/appsettings.Development.json
+/Users/leandrobelluscio/Documents/_code/Borderless/Berp/azure-course/azure-app-course/bin/Release/net9.0/publish/appsettings.json
+/Users/leandrobelluscio/Documents/_code/Borderless/Berp/azure-course/azure-app-course/bin/Release/net9.0/publish/publish/appsettings.Development.json
+/Users/leandrobelluscio/Documents/_code/Borderless/Berp/azure-course/azure-app-course/bin/Release/net9.0/publish/publish/appsettings.json
+/Users/leandrobelluscio/Documents/_code/Borderless/Berp/azure-course/azure-app-course/bin/Release/net9.0/publish/publish/azure-app-course.deps.json
+/Users/leandrobelluscio/Documents/_code/Borderless/Berp/azure-course/azure-app-course/bin/Release/net9.0/publish/publish/azure-app-course.runtimeconfig.json
+/Users/leandrobelluscio/Documents/_code/Borderless/Berp/azure-course/azure-app-course/bin/Release/net9.0/publish/publish/azure-app-course.staticwebassets.endpoints.json
+/Users/leandrobelluscio/Documents/_code/Borderless/Berp/azure-course/azure-app-course/bin/Release/net9.0/publish/azure-app-course.dll
+/Users/leandrobelluscio/Documents/_code/Borderless/Berp/azure-course/azure-app-course/bin/Release/net9.0/publish/azure-app-course.deps.json
+/Users/leandrobelluscio/Documents/_code/Borderless/Berp/azure-course/azure-app-course/bin/Release/net9.0/publish/azure-app-course.runtimeconfig.json
+/Users/leandrobelluscio/Documents/_code/Borderless/Berp/azure-course/azure-app-course/bin/Release/net9.0/publish/azure-app-course.pdb
